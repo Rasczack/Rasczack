@@ -1,4 +1,11 @@
-### Hi there 👋
+### Hi there, I'm Stanislav Yamin - aka Rasczack 👋
+
+## I'm Ds-student 
+
+- 🌱 I’m currently learning DS. ML and neural networks.
+- 📫 How to reach me:
+  * [telegram](https://t.me/Rasczack)
+  * zak.echo@yandex.ru
 
 <!--
 **Rasczack/Rasczack** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
